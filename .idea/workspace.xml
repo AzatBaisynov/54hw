@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="itacademy:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="609731a1-8520-45b4-9ba4-de8623e44c04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/801df999-c0cb-4fb6-81d6-9390d913238f.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/801df999-c0cb-4fb6-81d6-9390d913238f/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/801df999-c0cb-4fb6-81d6-9390d913238f/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/801df999-c0cb-4fb6-81d6-9390d913238f/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/801df999-c0cb-4fb6-81d6-9390d913238f/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/801df999-c0cb-4fb6-81d6-9390d913238f/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/801df999-c0cb-4fb6-81d6-9390d913238f/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itacademy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/db/ApplicationDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/db/DbWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/ApplicationListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/ApplicationServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/ApplicationUpdateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/accept.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/applications.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/done.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/db/ApplicationDb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/db/DbWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/ApplicationListServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/ApplicationServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/ApplicationUpdateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itacademy/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itacademy/WEB-INF/classes/db/ApplicationDb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itacademy/WEB-INF/classes/db/DbWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itacademy/WEB-INF/classes/model/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itacademy/WEB-INF/classes/servlet/ApplicationListServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itacademy/WEB-INF/classes/servlet/ApplicationServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itacademy/WEB-INF/classes/servlet/ApplicationUpdateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itacademy/WEB-INF/lib/postgresql-42.2.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itacademy/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itacademy/accept.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itacademy/applications.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itacademy/done.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itacademy/form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itacademy/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itacademy/info.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="801df999-c0cb-4fb6-81d6-9390d913238f" />
+    </checked>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YnpQ2Ux2jEXUX4MO2ag8SYbf8D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Новая папка" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.31">
+    <configuration name="accept.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/itacademy/accept.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="applications.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/itacademy/applications.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/itacademy/index.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 9.0.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.31" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/itacademy/" />
+      <option name="COMMON_VM_ARGUMENTS" value="-DENV=DEV" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="itacademy:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/itacademy" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_itacademy" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58049" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="itacademy:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.jsp" />
+        <item itemvalue="JavaScript Debug.accept.jsp" />
+        <item itemvalue="JavaScript Debug.applications.jsp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:postgres" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:postgres" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@2dbe78ff" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:postgres" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@15f61279" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="609731a1-8520-45b4-9ba4-de8623e44c04" name="Default Changelist" comment="" />
+      <created>1583588192296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583588192296</updated>
+      <workItem from="1583588203792" duration="7436000" />
+      <workItem from="1584771718964" duration="7885000" />
+      <workItem from="1584779722249" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1013" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584771860753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1013" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584771860753" />
+    <state x="373" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1584778103115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="373" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584778103115" />
+    <state x="1326" y="226" key="ExecutionTargetDialog" timestamp="1584773031438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1326" y="226" key="ExecutionTargetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584773031438" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584779642876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584779642876" />
+    <state width="1293" height="284" key="GridCell.Tab.0.bottom" timestamp="1584779643798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584779643798" />
+    <state width="1293" height="284" key="GridCell.Tab.0.center" timestamp="1584779643798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584779643798" />
+    <state width="1293" height="284" key="GridCell.Tab.0.left" timestamp="1584779643798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584779643798" />
+    <state width="1293" height="284" key="GridCell.Tab.0.right" timestamp="1584779643798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584779643798" />
+    <state width="1293" height="284" key="GridCell.Tab.1.bottom" timestamp="1584779643798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584779643798" />
+    <state width="1293" height="284" key="GridCell.Tab.1.center" timestamp="1584779643798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584779643798" />
+    <state width="1293" height="284" key="GridCell.Tab.1.left" timestamp="1584779643798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584779643798" />
+    <state width="1293" height="284" key="GridCell.Tab.1.right" timestamp="1584779643798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584779643798" />
+    <state width="1293" height="284" key="GridCell.Tab.2.bottom" timestamp="1584779643798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="284" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584779643798" />
+    <state width="1293" height="284" key="GridCell.Tab.2.center" timestamp="1584779643798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="284" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584779643798" />
+    <state width="1293" height="284" key="GridCell.Tab.2.left" timestamp="1584779643798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="284" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584779643798" />
+    <state width="1293" height="284" key="GridCell.Tab.2.right" timestamp="1584779643798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="284" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584779643798" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1584771850100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1584771850100" />
+    <state x="1129" y="0" width="798" height="1047" key="dock-window-1" timestamp="1584779779876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1129" y="0" width="798" height="1047" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1584779779876" />
+  </component>
+</project>
